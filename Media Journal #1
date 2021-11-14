@@ -1,0 +1,85 @@
+<head>
+<body>
+  <p id="name">Media Journal #1</p>
+  <p id="line8">Here's what I consumed (mobile+general internet)<br>
+    Date: Sep 16 (Thu) - Sep 20 (Mon)
+  </p>
+  <table id="MediaList">
+  <tr>
+    <th>Date</th>
+    <th>Average</th>
+    <th>Media</th>
+  </tr>
+  <tr>
+    <td>Sep 16 Thu</td>
+    <td>5h 49m</td>
+    <td>Podcast: listen to "How I built this"<br>
+      Spotify: play my liked songs<br>
+      Notability: review class notes (1h 23m)<br>
+      Youtube: watch videos from youtuber MKBHD<br>
+      Amazon: browsing<br>
+      WeChat: send messages to friends and family<br>
+    </td>
+    </tr>
+  <tr>
+    <td>Sep 17 Fri</td>
+    <td>8h 48m</td>
+    <td>Firefox: look up some terms in wikipedia<br>
+      Canvas: check dashboard and submit assignments<br>
+      Gmail: send emails and check my inbox<br>
+      Zoom: meeting (1h 42m)<br>
+      WeChat: send messages to friends and family<br>
+      Notability: read pdfs and take notes (3h 26m)<br>
+      AMC movie night: "Ghost in the Shell"
+    </td>
+  </tr>
+  <tr>
+    <td>Sep 18 Sat</td>
+    <td>8h 48m</td>
+    <td>Youtube: watch random videos that appear on my homepage (1 h 54m)<br>
+      Notability: take notes on reading pieces (40m)<br>
+      Pinterest: download ipad wallpapers<br>
+      Zoom: student org meeting (28m)<br>
+      Gmail: check emails<br>
+      Netflix: watch tv series
+    </td>
+  </tr>
+  <tr>
+    <td>Sep 19 Sun</td>
+    <td>8h 21m</td>
+    <td>Youtube: watch videos (1h)<br>
+      Netflix: watch videos (34m)<br>
+      Google docs: edit docs online (34m)<br>
+      Notability: read books and take notes (34m)<br>
+      CVS photos: upload photos and print<br>
+      Google Maps: search location<br>
+      Yelp: search restaurants near me
+    </td>
+  </tr>
+  <tr>
+    <td>Sep 20 Mon</td>
+    <td>8h 48m</td>
+    <td>Netflix: watch tv series (2h 31m)<br>
+      Notability: Take notes (2h 21m)<br>
+      Gmail: check my inbox<br>
+      Mapnote: mindmapping<br>
+      Firefox: log in to emerson library and do research on certain topics<br>
+      Linkedin: check notifications<br>
+      Google docs: edit docs online
+    </td>
+  </tr>
+</table>
+  <figure>
+    <img src="https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj"  width="150px"><img src="data:image/png;base64,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" width="150px"><img src="https://images.macrumors.com/t/5cs-L9wu-l4N0eYo8hh7x6uCQos=/1600x0/article-new/2014/05/notability.png"  width="120px"><img src="https://seeklogo.net/wp-content/uploads/2016/11/wechat-logo-preview-400x400.png"  width="120px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"  width="120px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Podcasts_%28iOS%29.svg/2048px-Podcasts_%28iOS%29.svg.png"  width="120px"><img src="https://i1.adis.ws/i/canon/CameraConnect?w=550&qlt=100&fmt=jpg&fmt.options=interlaced&bg=rgb(245,246,246)"  width="120px"><img src="https://cvshealth.com/sites/default/files/cvs-health-mobile-apps-2.png"  width="120px"><img src="https://store-images.microsoft.com/image/apps.44255.9007199266613116.6e3459e5-0585-40ed-8ee0-1fac17887511.5b0a7ecf-d8a2-47f4-ad71-e1b455529344?mode=scale&q=90&h=200&w=200&background=%23ffffff"  width="120px"><img src="https://play-lh.googleusercontent.com/V1lb4J811SNh6hlGqNlDnGZXfdtI2i-1dC7_i9TnViyiboZ2RHp8xbhKbbECG-f26is"  width="120px">
+  </figure>
+  <p id="line9">Credits</p>
+ <hr>
+  <p id="line10">Media Journal #1 by Ivy<br>
+Tracking date: September 16, September 17, Spetember 18, September 19. September 20.
+  </p>
+</body>
+</body>
+
+  
+
+</html>
